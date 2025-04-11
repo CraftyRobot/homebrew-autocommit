@@ -1,8 +1,8 @@
 class Autocommit < Formula
   desc "Tiny Git auto-committer script"
   homepage "https://github.com/CraftyRobot/autocommit"
-  url "https://github.com/CraftyRobot/autocommit/archive/refs/tags/v0.1.7.tar.gz"
-  sha256 "76783d9ff357e3cc1e0aee8e3172d5f20c2dd2750eded794e703f6958effdac8"
+  url "https://github.com/CraftyRobot/autocommit/archive/refs/tags/v0.1.8.tar.gz"
+  sha256 "1612375efe78b028efc4d1eb398eb115799250df8cc14b3c6c3540c913991777"
   license "MIT"
 
   def install
